@@ -45,3 +45,5 @@ Here are some ideas to get you started:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tomo-yamauchi&theme=onedark)](https://github.com/tomo-yamauchi/github-profile-trophy)
+
+### My skills include ✏️
