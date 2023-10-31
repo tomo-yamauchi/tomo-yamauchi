@@ -43,6 +43,13 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomo-yamauchi)](https://github.com/tomo-yamauchi/github-readme-stats)
 
+<a href="https://github.com/tomo-yamauchi">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=tomo-yamauchi&theme=tokyonight&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/tomo-yamauchi">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tomo-yamauchi" />
+</a>
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=tomo-yamauchi&theme=onedark)](https://github.com/tomo-yamauchi/github-profile-trophy)
 
 ### My skills include ✏️
