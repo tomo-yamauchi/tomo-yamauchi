@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![Tomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomo-yamauchi&theme=dracula)
+![Tomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomo-yamauchi&theme=tokyonight)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomo-yamauchi)](https://github.com/tomo-yamauchi/github-readme-stats)
 
