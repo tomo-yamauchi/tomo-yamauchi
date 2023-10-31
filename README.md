@@ -39,10 +39,12 @@ Here are some ideas to get you started:
   </a> -->
 </p>
 
+<div align="left">
 ![Tomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomo-yamauchi&theme=tokyonight)
-
+</div>
+<div align="right">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomo-yamauchi)](https://github.com/tomo-yamauchi/github-readme-stats)
-
+</div>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=tomo-yamauchi&theme=onedark)](https://github.com/tomo-yamauchi/github-profile-trophy)
 
