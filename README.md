@@ -39,10 +39,6 @@ Here are some ideas to get you started:
   </a> -->
 </p>
 
-![Tomo's GitHub stats](https://github-readme-stats.vercel.app/api?username=tomo-yamauchi&theme=tokyonight)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tomo-yamauchi)](https://github.com/tomo-yamauchi/github-readme-stats)
-
 <a href="https://github.com/tomo-yamauchi">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=tomo-yamauchi&theme=tokyonight&count_private=true&show_icons=true" />
 </a>
